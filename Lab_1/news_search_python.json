@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 146,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Mail.ru"
+            },
+            "author": "Диана Дьякова",
+            "title": "В Башкирии 120 школьников бесплатно освоят программирование и робототехнику",
+            "description": "Ребята изучат работу электронных систем и датчиков, а также научатся писать скрипты на Python.",
+            "url": "https://news.mail.ru/society/72296495/",
+            "urlToImage": "https://news.mail.ru/social_preview/72296495/?time=aca96bea3a0322129129b3c296e09a04",
+            "publishedAt": "2026-09-09T11:11:16Z",
+            "content": "«L2.  Python,   »  « »   12−15 . 3 .     ,  Python,     IoT-. ,    —    «» ,     .\r\n« ,   ,     ,  .    “ ”,       . ,   , », — .\r\n«  »       .    —   , ,    .     « 2030».      2025 ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "suvorinovoleg@yandex.ru",
+            "title": "os-craft 0.1.2",
+            "description": "Легковесные, надежные утилиты для взаимодействия Python-приложений с ОС",
+            "url": "https://pypi.org/project/os-craft/0.1.2/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-09T10:29:11Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "developer@sberdevices.ru",
+            "title": "smart-app-framework 2.4.0rc12",
+            "description": "Python-фреймворк, который позволяет создавать смартапы для виртуальных ассистентов Салют.",
+            "url": "https://pypi.org/project/smart-app-framework/2.4.0rc12/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-09T07:45:38Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "suvorinovoleg@yandex.ru",
+            "title": "os-craft 0.1.1",
+            "description": "Легковесные, надежные утилиты для взаимодействия Python-приложений с ОС",
+            "url": "https://pypi.org/project/os-craft/0.1.1/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-09T06:41:22Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Opennet.ru"
+            },
+            "author": null,
+            "title": "Релиз языка программирования Nim 2.2.12",
+            "description": "После четырёх месяцев разработки  представлен  релиз языка системного программирования  Nim 2.2.12 . Nim – статически типизированный компилируемый язык программирования с синтаксисом, вдохновлённым Python, и возможностями метапрограммирования на уровне Lisp. …",
+            "url": "https://www.opennet.ru/opennews/art.shtml?num=66237",
+            "urlToImage": null,
+            "publishedAt": "2026-09-09T05:25:05Z",
+            "content": "Nim 2.2.12. Nim – , Python, Lisp. C, C++ JavaScript, C . MIT.\r\nNim , AST , , (multiple dispatch), (ARC/ORC, refc, --), async/await FFI C/C++/JavaScript. Nim , -, , .\r\n142 , . :\r\n<ul><li> (SIGSEGV) AR… [+494 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "support@srezai.ru",
+            "title": "srezai 0.2.0",
+            "description": "Python-клиент поискового API срезAI: веб-поиск, чтение страниц и извлечение по схеме для ИИ-агентов",
+            "url": "https://pypi.org/project/srezai/0.2.0/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-08T20:39:31Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "tr@vsme.cc",
+            "title": "FediBoost 1.0.0",
+            "description": "Минималистичный Python-бот для автоматического репоста в Mastodon/Akkoma по хэштегам",
+            "url": "https://pypi.org/project/fediboost/1.0.0/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-08T18:03:25Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": "tr@vsme.cc",
+            "title": "FediBoost added to PyPI",
+            "description": "Минималистичный Python-бот для автоматического репоста в Mastodon/Akkoma по хэштегам",
+            "url": "https://pypi.org/project/fediboost/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-08T18:03:25Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "s-browserkit 0.1.2",
+            "description": "Браузерный слой для Python-автоматизации: стелс-сессии, антибот-запросы, capture трафика и уборщик осиротевших браузеров через единый фасад возможностей, а не имя движка.",
+            "url": "https://pypi.org/project/s-browserkit/0.1.2/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-08T16:26:06Z",
+            "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pypi.org"
+            },
+            "author": null,
+            "title": "geas added to PyPI",
+            "description": "Генерация тестовых контрактов, JSON Schema, d42-схем и operation-aware моков из checked-in OpenAPI",
+            "url": "https://pypi.org/project/geas/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-08T14:45:26Z",
+            "content": ", JSON Schema, d42- operation-aware , \r\nchecked-in OpenAPI.\r\nGeas :\r\n , . \r\n OpenAPI-: \r\n , fixture, mock .\r\n<ul><li>: 0.1.0</li><li>Python: 3.10+</li><li>jsonschema[format-nongpl]PyYAML. d42 JJ extr… [+14473 chars]"
+        }
+    ]
+}
